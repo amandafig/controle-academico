@@ -1,0 +1,13 @@
+body {
+    background-color:antiquewhite;
+    text-align: center;
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+p{
+    font-family: "Courier";
+    color: black;
+    font-size: 22px;
+}

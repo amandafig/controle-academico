@@ -1,0 +1,19 @@
+body.padrao{
+    background-color:antiquewhite;
+    text-align: center;
+}
+
+p.fontepadrao{
+    font-family: "Times New Roman";
+    font-size: 18px;
+    color: black;
+    text-align: justify;
+}
+
+p.fontedestaque{
+    font-family: "Times New Roman";
+    font-size: 18px;
+    font-weight: bold;
+    color:black;
+    text-align: justify;
+}
